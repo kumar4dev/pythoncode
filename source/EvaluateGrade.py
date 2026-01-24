@@ -17,7 +17,6 @@ if((sub1 >= M1 >= M2 >= M3) and(sub2 >= M1 >= M2 >= M3) and(sub3 >= M1 >= M2 >= 
 	grade = avg / 10 
 	if(grade >= 7 <= 10):
 		print('Average=%.2f'%(avg)) 
-		print('%2.f'%(avg)) 
 		print('A') 
 
 	elif(grade >= 4 <= 6.9): 
